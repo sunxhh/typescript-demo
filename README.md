@@ -1,2 +1,1 @@
 # typescript-demo
-typescript-demo
